@@ -1,0 +1,3 @@
+java -jar ./moco-runner-0.11.0-standalone.jar  协议类型  -p 端口号 -c json配置文件
+
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup1.json
